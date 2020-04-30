@@ -1,0 +1,12 @@
+seed,bs,epochs,emb_dim,hid_dim,upsample,lr,dropout,max_vocab,additional_data,embs,strip,data_split,classifier
+int,int,int,int,int,bool,float,float,int,str,bool,bool,int,str
+0,256,3,300,300,True,0.1,0.2,-1,,True,TRUE,0,logreg
+0,256,200,300,300,True,0.1,0.2,-1,,True,TRUE,1,logreg
+0,256,200,300,300,True,0.1,0.2,-1,,True,TRUE,2,logreg
+0,256,200,300,300,True,0.1,0.2,-1,,True,TRUE,3,logreg
+0,256,200,300,300,True,0.1,0.2,-1,,True,TRUE,4,logreg
+0,256,200,300,300,True,0.1,0.2,-1,,True,TRUE,5,logreg
+0,256,200,300,300,True,0.1,0.2,-1,,True,TRUE,6,logreg
+0,256,200,300,300,True,0.1,0.2,-1,,True,TRUE,7,logreg
+0,256,200,300,300,True,0.1,0.2,-1,,True,TRUE,8,logreg
+0,256,200,300,300,True,0.1,0.2,-1,,True,TRUE,9,logreg
