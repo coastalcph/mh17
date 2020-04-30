@@ -14,7 +14,7 @@ If you use code from this repo, please cite:
   author={Hartmann, Mareike and Golovchenko, Yevgeniy and Augenstein, Isabelle},\
   booktitle={Proceedings of the Second Workshop on Natural Language Processing for Internet Freedom: Censorship, Disinformation, and Propaganda},\
   pages={45--55},\
-  year={2019}\
+  year={2019}
 }
 
 
@@ -27,7 +27,7 @@ If you use data or annotations used in this project, please cite:
   volume={95},\
   number={5},\
   pages={975--994},\
-  year={2018}\
+  year={2018}
 }
 
 
