@@ -1,6 +1,6 @@
 # Mapping (Dis-)Information Flow about the MH17 Plane Crash
 
-This repository contains the code for the tweet classification experiments described in Hartmann et al. (2019): Mapping (Dis-)Information Flow about the MH17 Plane Crash
+This repository contains the code for the tweet classification experiments described in Hartmann et al. (2019): [Mapping (Dis-)Information Flow about the MH17 Plane Crash](https://www.aclweb.org/anthology/D19-5006.pdf)
 
 The classifiers are located in encoders/ folder. The classifiers rely on pre-trained embeddings, in the experiments reported in the paper we used fasttext embeddings trained on Wikipedia and aligned between languages available here: https://fasttext.cc/docs/en/aligned-vectors.html 
 Location of data and embeddings have to be specified in the config.cfg. Hyperparameters can be specified in the .csv files in hyperparams/
